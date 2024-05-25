@@ -1,0 +1,25 @@
+import { Link } from "react-router-dom";
+import DressLeft from "./DressLeft";
+import DressRight from "./DressRight";
+
+
+const Dress = () => {
+    return (
+        <div className='mt-10'>
+            <div className='flex justify-between'>
+                <h1 className='text-3xl font-semibold'>Dress:</h1>
+                <Link to='dressViewAll' className='text-xl text-orange-500'>View All</Link>
+            </div>
+            <div className='grid md:grid-cols-4 gap-2'>
+                <div className='col-span-1 '>
+                    <DressLeft></DressLeft>
+                </div>
+                <div className='col-span-3 '>
+                    <DressRight></DressRight>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default Dress;

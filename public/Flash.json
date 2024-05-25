@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/8B285GY/7703-1-long-webp.webp",
+        "price": 29.99,
+        "title": "2D Wine-Stopper Rectangle"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/CWQQvcM/image-long-webp-4.webp",
+        "price": 49.99,
+        "title": "2D Necklace Heart"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/PGr7hbb/Whats-App-Image-2023-05-01-at-1-11-52-AM-long-webp.webp",
+        "price": 19.99,
+        "title": "3D Necklace Heart"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Cn62ghk/image-long-webp-5.webp",
+        "price": 39.99,
+        "title": "2D Keychain Rectangle"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/6H7wt26/7402-1-long-webp.webp",
+        "price": 24.99,
+        "title": "2D Charm Rectangle Rearview Mirror"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/FbJyh62/3072-long-webp.webp",
+        "price": 59.99,
+        "title": "2D Keychain Heart"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/6bX4h8r/1853-long-webp.webp",
+        "price": 34.99,
+        "title": "Bell Glass Lighting Fixture"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/C2r0bCp/1004-BL-1-long-webp.webp",
+        "price": 44.99,
+        "title": "Bell Glass Lighting Fixture"
+    }
+]

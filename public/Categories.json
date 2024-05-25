@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/SfMDMmJ/R.png",
+        "price": "290K Items",
+        "title": "Dress"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/bJN4h2r/OIP-5.jpg",
+        "price":"290K Items",
+        "title": "Health"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/LnLHqM7/OIP-2.jpg",
+        "price": "290K Items",
+        "title": "Beauty"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/JxRf0Pp/th-1.jpg",
+        "price": "290K Items",
+        "title": "Bags"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/fNWDmKs/single.webp",
+        "price": "290K Items",
+        "title": "Western"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/7gDTZqY/4241807-long-webp.webp",
+        "price": "290K Items",
+        "title": "Sharee"
+    }
+   
+]

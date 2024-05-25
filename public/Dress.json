@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/RvXR0Mr/alice-alinari-X4-FDm3-Hw-VA8-unsplash.jpg",
+        "price": 29.99,
+        "title": " Farah Party Dress"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/6s6rxnK/abbat-4yp-G87ks1-IA-unsplash.jpg",
+        "price": 49.99,
+        "title": "Alission Snao Dress"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/2PX1Xzy/nicole-geri-Hn-Qe-DNq1-Z0-unsplash.jpg",
+        "price": 19.99,
+        "title": "Brando Dress"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Q8w3YYS/vanessa-serpas-Ov-Iv-AG2-KLVk-unsplash.jpg",
+        "price": 39.99,
+        "title": "Alission Snao Dress"
+    }
+  
+    
+]

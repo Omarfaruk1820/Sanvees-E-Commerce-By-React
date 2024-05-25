@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/ccprkfP/OIP-10.jpg",
+        "price": 29.99,
+        "title": "Product 1"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/p1K2FFW/th-6.jpg",
+        "price": 49.99,
+        "title": "Product 2"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/M29hvM0/th-5.jpg",
+        "price": 19.99,
+        "title": "Product 3"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/TP3V3fs/OIP-13.jpg",
+        "price": 39.99,
+        "title": "Product4"
+    }
+]
