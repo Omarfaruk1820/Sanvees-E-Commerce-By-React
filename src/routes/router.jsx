@@ -10,6 +10,7 @@ import DressViewAll from "../Componets/Dress/DressViewAll";
 import ViewAllBeauty from "../Componets/Beauty/ViewAllBeauty";
 import ViewAllBags from "../Componets/Bags/ViewAllBags";
 import ShareeAllView from "../Componets/Sharee/ShareeAllView";
+import WesternViewAll from "../Componets/Western/WesternViewAll";
 
 const router = createBrowserRouter([
     {
@@ -56,6 +57,10 @@ const router = createBrowserRouter([
         {
           path:"/ShareeAllView",
           element:<ShareeAllView></ShareeAllView>
+        },
+        {
+          path:'/WesternViewAll',
+          element:<WesternViewAll></WesternViewAll>
         }
        
       ]
