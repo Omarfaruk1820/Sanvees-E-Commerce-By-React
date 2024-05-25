@@ -12,7 +12,7 @@ const Categori = () => {
     },[])
     return (
         <div className='mt-10'>
-         <div className='flex justify-between'>
+         <div className='flex justify-between mx-4'>
          <h1 className='text-2xl font-bold'>Categories of Product:</h1>
          <Link to='CategoriViewAll' className="text-xl text-orange-500">View All</Link>
          </div>

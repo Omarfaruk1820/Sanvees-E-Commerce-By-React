@@ -3,7 +3,7 @@
         "id": 1,
         "img": "https://i.ibb.co/8B285GY/7703-1-long-webp.webp",
         "price": 29.99,
-        "title": "2D Wine-Stopper Rectangle"
+        "title": "2D Wine-Stopper"
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
         "id": 4,
         "img": "https://i.ibb.co/Cn62ghk/image-long-webp-5.webp",
         "price": 39.99,
-        "title": "2D Keychain Rectangle"
+        "title": "Keycha Rectangle"
     },
     {
         "id": 5,
         "img": "https://i.ibb.co/6H7wt26/7402-1-long-webp.webp",
         "price": 24.99,
-        "title": "2D Charm Rectangle Rearview Mirror"
+        "title": "Charm Rectangle "
     },
     {
         "id": 6,
@@ -39,12 +39,12 @@
         "id": 7,
         "img": "https://i.ibb.co/6bX4h8r/1853-long-webp.webp",
         "price": 34.99,
-        "title": "Bell Glass Lighting Fixture"
+        "title": "Bell Glass Lighting"
     },
     {
         "id": 8,
         "img": "https://i.ibb.co/C2r0bCp/1004-BL-1-long-webp.webp",
         "price": 44.99,
-        "title": "Bell Glass Lighting Fixture"
+        "title": "Bell Glass Lighting"
     }
 ]

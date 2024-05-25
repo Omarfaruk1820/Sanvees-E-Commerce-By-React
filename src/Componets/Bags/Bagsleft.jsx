@@ -2,8 +2,8 @@ import bag from "../../assets/bags/OIP.jpeg"
 
 const Bagsleft = () => {
     return (
-        <div>
-           <img className='h-[350px]' src={bag} alt="" />
+        <div className="my-3">
+           <img className='h-[360px] w-full rounded-lg' src={bag} alt="" />
 
         </div>
     );

@@ -2,8 +2,8 @@ import model from "../../assets/model female/suheyl-burak-ctSY7BQeRm8-unsplash.j
 
 const WesternLeft = () => {
     return (
-        <div>
-            <img src={model} alt="" />
+        <div className=''>
+            <img className='w-full h-[350px] rounded-lg' src={model} alt="" />
         </div>
     );
 };

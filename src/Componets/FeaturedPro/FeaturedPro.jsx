@@ -11,7 +11,7 @@ const FeaturedPro = () => {
     },[])
     return (
         <div className='mt-10'>
-       <div className='flex justify-between'>
+       <div className='flex justify-between mx-4'>
        <h1 className='text-2xl font-bold'>Featured Products:</h1>
         <h1><Link to='/newProduct' className=' text-[20px] text-orange-500'>Vew All</Link></h1>
        </div>

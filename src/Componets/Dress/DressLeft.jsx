@@ -2,10 +2,9 @@ import singlePhoto from "../../assets/capule/single.webp"
 
 const DressLeft = () => {
     return (
-        <div>
-           <img src={singlePhoto}></img>
-
-        </div>
+        <div className=''>
+           <img className='w-[500px] h-[300px] ' src={singlePhoto}></img>
+           </div>
     );
 };
 

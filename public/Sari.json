@@ -3,25 +3,25 @@
         "id": 1,
         "img": "https://i.ibb.co/5B4R4zJ/BWVSK-5119-zoom.jpg",
         "price": 29.99,
-        "title": "Product 1"
+        "title": "Jamdani Sharee"
     },
     {
         "id": 2,
         "img": "https://i.ibb.co/N93TqKD/R.jpg",
         "price": 49.99,
-        "title": "Product 2"
+        "title": "Indian banarosi "
     },
     {
         "id": 3,
         "img": "https://i.ibb.co/grPtM31/il-fullxfull-3219669878-6fat.webp",
         "price": 19.99,
-        "title": "Product 3"
+        "title": "Indian Cotton Sharee"
     },
     {
         "id": 4,
         "img": "https://i.ibb.co/Vv2gTWB/woven-art-silk-saree-in-dark-green-v1-ssea240.webp",
         "price": 39.99,
-        "title": "Product 4"
+        "title": "Cotton Sharee By Sanvee"
     }
    
   

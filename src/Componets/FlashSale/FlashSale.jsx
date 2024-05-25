@@ -7,7 +7,7 @@ import FlashSaleRight from "./FlashSaleRight";
 const FlashSale = () => {
     return (
         <div className='mt-10'>
-            <div className='flex justify-between'>
+            <div className='flex justify-between mx-4'>
                 <h1 className='text-3xl font-semibold'>Flash Sale:</h1>
                 <Link className='text-xl text-orange-500' to='flashSaleView'>View All</Link>
             </div>
