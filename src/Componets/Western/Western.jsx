@@ -5,10 +5,10 @@ import WesternRight from "./WesternRight";
 
 const Western = () => {
     return (
-        <div>
+        <div className="mt-10">
             <div className='flex justify-between mx-4'>
                 <h1 className='text-3xl font-semibold'>Western Collection:</h1>
-                <Link to='WesternViewAll' className='text-xl text-orange-500'>View All</Link>
+                <Link to='WesternViewAll' className='font-medium text-orange-500'>View All</Link>
             </div>
             <div className='grid md:grid-cols-5 grid-cols-1 gap-3'>
                 <div className="col-span-1 ml-4">

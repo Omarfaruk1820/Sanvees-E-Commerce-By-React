@@ -13,7 +13,7 @@ const FeaturedPro = () => {
         <div className='mt-10'>
        <div className='flex justify-between mx-4'>
        <h1 className='text-2xl font-bold'>Featured Products:</h1>
-        <h1><Link to='/newProduct' className=' text-[20px] text-orange-500'>Vew All</Link></h1>
+        <h1><Link to='/newProduct' className='font-medium text-orange-500'>Vew All</Link></h1>
        </div>
         <div className='grid md:grid-cols-4 grid-cols-2 gap-3'>
             {

@@ -14,7 +14,7 @@ const Categori = () => {
         <div className='mt-10'>
          <div className='flex justify-between mx-4'>
          <h1 className='text-2xl font-bold'>Categories of Product:</h1>
-         <Link to='CategoriViewAll' className="text-xl text-orange-500">View All</Link>
+         <Link to='CategoriViewAll' className="font-medium text-orange-500">View All</Link>
          </div>
          <div className='grid md:grid-cols-6 grid-cols-2 gap-3 mt-3'>
             {

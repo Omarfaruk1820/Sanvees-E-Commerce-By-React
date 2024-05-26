@@ -7,10 +7,10 @@ const SingleDress = ({dress}) => {
     <div className='m-3'>
             <div className="card border border-blue-300 relative  bg-base-100 shadow-xl">
         <figure className="">
-            <img src={img} alt="Featured Product" className="rounded-xl w-80 h-60" />
+            <img src={img} alt="Featured Product" className="rounded-xl w-80 h-48" />
             <button className="btn absolute w-12 h-10 top-0 right-0 bg-orange-500 rounded-full  text-white ">20%</button>
         </figure>
-        <div className="join join-vertical absolute  w-14 top-0 mt-3  ml-2">
+        <div className="join join-vertical absolute  w-12 top-0 mt-3  ml-2">
                 <button className="btn text-xl"><FaRegHeart /></button>
                 <button className="btn text-xl"><IoCartOutline /></button>
                  </div>

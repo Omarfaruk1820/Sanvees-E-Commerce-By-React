@@ -4,7 +4,7 @@ const FlashLeft = () => {
     return (
        <div className='ml-3'>
          <div className='relative'>
-           <img className=' h-[562px] rounded-xl' src={couple} alt="Couple" />
+           <img className=' h-[505px] rounded-xl' src={couple} alt="Couple" />
      <div className='absolute ml-10 top-2'>
      <div className=" grid grid-flow-col gap-3 text-center auto-cols-max">
   <div className="flex flex-col">

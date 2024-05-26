@@ -7,8 +7,8 @@ const Beauty = () => {
     return (
         <div className='mt-10'>
             <div className='flex justify-between mx-4'>
-                <h1>Beauty</h1>
-                <Link to='ViewAllBeauty'>View All</Link>
+                <h1 className='text-3xl font-semibold'>Beauty:</h1>
+                <Link className="font-medium" to='ViewAllBeauty '>View All</Link>
             </div>
             <div className='grid md:grid-cols-5 grid-cols-1 gap-2'>
                 <div className="col-span-1 ml-2">

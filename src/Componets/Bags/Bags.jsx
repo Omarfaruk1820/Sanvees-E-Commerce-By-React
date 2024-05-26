@@ -8,7 +8,7 @@ const Bags = () => {
         <div className="mt-10">
             <div className="flex justify-between mx-4">
                 <h1 className='text-3xl font-semibold'>Bags:</h1>
-                <Link to='viewallbags' className='text-xl text-orange-500'>View All</Link>
+                <Link to='viewallbags' className='font-medium text-orange-500'>View All</Link>
             </div>
             <div className='grid md:grid-cols-5 grid-cols-1 gap-3'>
                 <div className='col-span-1'>

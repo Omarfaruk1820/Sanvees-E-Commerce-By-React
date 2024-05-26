@@ -8,7 +8,7 @@ const Sharee = () => {
         <div className='mt-10'>
             <div className='flex justify-between mx-4'>
                 <h1 className='text-3xl font-semibold'>Sharee:</h1>
-                <Link to='ShareeAllView' className='text-xl font-semibold'>View All</Link>
+                <Link to='ShareeAllView' className=' font-medium'>View All</Link>
             </div>
             <div className="grid md:grid-cols-5 grid-cols-1 mx-4 gap-3">
                 <div className='col-span-1'>

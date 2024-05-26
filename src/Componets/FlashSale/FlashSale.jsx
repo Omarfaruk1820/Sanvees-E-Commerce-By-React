@@ -9,7 +9,7 @@ const FlashSale = () => {
         <div className='mt-10'>
             <div className='flex justify-between mx-4'>
                 <h1 className='text-3xl font-semibold'>Flash Sale:</h1>
-                <Link className='text-xl text-orange-500' to='flashSaleView'>View All</Link>
+                <Link className='font-medium text-orange-500' to='flashSaleView'>View All</Link>
             </div>
             <div className='grid md:grid-cols-8 mt-5 gap-2'>
           <div className="col-span-3">
