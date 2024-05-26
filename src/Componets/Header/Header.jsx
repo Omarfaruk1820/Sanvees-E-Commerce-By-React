@@ -3,17 +3,17 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   const navbar=<>
-  <Link to=''><li> <a>All Categories</a></li></Link>
-  <Link to=''><li> <a>Dress</a></li></Link>
-  <Link to=''><li><a>Sharee</a></li></Link>
-  <Link to=''><li> <a>Health and Beauty</a></li></Link>
-  <Link to=''><li><a>Western Dress</a></li></Link>
-  <Link to=''><li><a>Bags</a></li></Link>
-  <Link to=''><li><a>Flash Deals</a></li></Link>
+  <Link className='font-medium' to=''><li> <a>All Categories</a></li></Link>
+  <Link className='font-medium' to=''><li> <a>Dress</a></li></Link>
+  <Link className='font-medium' to=''><li><a>Sharee</a></li></Link>
+  <Link className='font-medium' to=''><li> <a>Health and Beauty</a></li></Link>
+  <Link className='font-medium' to=''><li><a>Western Dress</a></li></Link>
+  <Link className='font-medium' to=''><li><a>Bags</a></li></Link>
+  <Link className='font-medium' to=''><li><a>Flash Deals</a></li></Link>
   
   </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-300 rounded-lg">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

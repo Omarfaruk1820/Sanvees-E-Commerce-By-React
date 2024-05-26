@@ -11,6 +11,8 @@ import ViewAllBeauty from "../Componets/Beauty/ViewAllBeauty";
 import ViewAllBags from "../Componets/Bags/ViewAllBags";
 import ShareeAllView from "../Componets/Sharee/ShareeAllView";
 import WesternViewAll from "../Componets/Western/WesternViewAll";
+import Login from "../Componets/Login/Login";
+import SignUp from "../Componets/SignUp/SignUp";
 
 const router = createBrowserRouter([
     {
@@ -61,7 +63,16 @@ const router = createBrowserRouter([
         {
           path:'/WesternViewAll',
           element:<WesternViewAll></WesternViewAll>
+        },
+        {
+          path:"/login",
+          element:<Login></Login>
+        },
+        {
+          path:'/signup',
+          element:<SignUp></SignUp>
         }
+
        
       ]
     },

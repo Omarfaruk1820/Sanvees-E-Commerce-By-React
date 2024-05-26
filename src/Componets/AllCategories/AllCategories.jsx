@@ -1,4 +1,5 @@
 import Bags from "../Bags/Bags";
+import Banner from "../Banner/Banner";
 import Beauty from "../Beauty/Beauty";
 import Categori from "../Categories/Categori";
 import Dress from "../Dress/Dress";
@@ -13,6 +14,7 @@ import Western from "../Western/Western";
 const AllCategories = () => {
     return (
         <div>
+            <Banner></Banner>
            <FeaturedPro></FeaturedPro>
            <TodayDeal></TodayDeal>
            <FlashSale></FlashSale>
